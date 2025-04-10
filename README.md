@@ -27,4 +27,4 @@ MalLang은 Python 위에서 작동하는 인터프리터 언어로, **교육용 
 ---
 
 ### ✨ Inspired by  
-훈민정음 by [2tle](https://github.com/2tle)
+**훈민정음 by [2tle](https://github.com/2tle)**
